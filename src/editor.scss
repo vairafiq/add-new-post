@@ -1,0 +1,16 @@
+.vairafiq-quick-post-duplicate-menu-item {
+	.components-menu-item__item {
+		justify-content: space-between;
+		.components-spinner {
+			margin: 0;
+		}
+	}
+}
+
+.vairafiq-quick-post-delete-menu-item {
+	color: red;
+}
+
+.edit-post-header__toolbar .edit-post-header-toolbar {
+	flex-grow: 0;
+}

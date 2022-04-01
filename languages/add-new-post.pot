@@ -1,0 +1,49 @@
+# Copyright (C) 2022 Rafiq
+# This file is distributed under the same license as the QuickPost plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: QuickPost 0.1.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/quickpost\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-03-05T05:09:30+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.5.0\n"
+"X-Domain: quickpost\n"
+
+#. Plugin Name of the plugin
+msgid "QuickPost"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://createwithrani.com"
+msgstr ""
+
+#. Description of the plugin
+msgid "Adds an \"Add New\" button to the Block Editor toolbar, so you can easily create new posts/pages/custom post types, as well as duplicate them."
+msgstr ""
+
+#. Author of the plugin
+msgid "Rafiq"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://aurooba.com"
+msgstr ""
+
+#. translators: %1$s: the phrase "Add New", %2$s: Name of current post type.
+#: build/index.js:92
+#: src/add-button.js:41
+#: build/index.js:55
+msgid "%1$s %2$s"
+msgstr ""
+
+#. translators: %s: singular label of current post type i.e Page, Post
+#: build/index.js:196
+#: src/duplicate-menu-item.js:67
+#: build/index.js:132
+msgid "Duplicate %s"
+msgstr ""
