@@ -4,7 +4,6 @@
  * Plugin URI:      https://exlac.com
  * Description:     Adds the missing "Add New" button of classic editor to the Block Editor toolbar, so you can easily create new posts/pages/custom post types, as well as duplicate or permanently delete post.
  * Author:          Rafiq
- * Author URI:      https://exlac.com
  * Text Domain:     vairafiq-anpg
  * Domain Path:     /languages
  * Version:         0.1.0
