@@ -1,4 +1,4 @@
-=== Add New Post ===
+=== Gutenberg Add New Post ===
 Contributors:      rafiq91
 Tags:              add new, gutenberg, add new post, block editor, duplicate post, permanently delete
 Requires at least: 5.7
@@ -19,9 +19,9 @@ Gutenbergh Add New Post allow you to quickly create new posts from the Block Edi
 2. Duplicate the post
 3. Delete it permanently
 
-If you enjoy the plugin, please leave a review! ⭐
+If you enjoy the plugin, please leave a review! ⭐⭐⭐⭐⭐
 
-If you need support, please use the support forum to reach out. 🆘
+If you need support, please use the support forum to reach out.
 
 === Key Features ===
 
